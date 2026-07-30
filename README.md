@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0242-valid-anagram) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0387-first-unique-character-in-a-string) |
@@ -62,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0349-intersection-of-two-arrays) |
 ## Queue
