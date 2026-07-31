@@ -86,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
