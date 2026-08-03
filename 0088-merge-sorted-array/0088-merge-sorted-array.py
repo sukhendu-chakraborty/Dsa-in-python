@@ -3,10 +3,16 @@ class Solution:
         """
         Do not return anything, modify nums1 in-place instead.
         """
-        nums1[m:] = []
-        for i in range(n):
-            nums1.append(nums2[i])
-        nums1.sort()
+        i,j,k = m-1, n-1, m+n-1
+        while j>=0:
+            if i<0 or nums2[j]>nums1[i]:
+                nums1[k]=nums2[j]
+                j-=1
+                k-=1
+            else:
+                nums1[k]=nums1[i]
+                i-=1
+                k-=1
 
 
                 
