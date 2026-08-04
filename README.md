@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0912-sort-an-array) |
 | [1672-richest-customer-wealth](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/1672-richest-customer-wealth) |
+| [3731-find-missing-elements](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0387-first-unique-character-in-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3731-find-missing-elements](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0435-non-overlapping-intervals) |
 | [0912-sort-an-array](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0912-sort-an-array) |
+| [3731-find-missing-elements](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/3731-find-missing-elements) |
 ## Queue
 |  |
 | ------- |
