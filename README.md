@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0015-3sum) |
+| [0035-search-insert-position](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0054-spiral-matrix) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0704-binary-search) |
 ## Sorting
