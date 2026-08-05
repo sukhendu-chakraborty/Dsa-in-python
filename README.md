@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0877-stone-game) |
+| [0905-sort-array-by-parity](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0912-sort-an-array) |
 | [1672-richest-customer-wealth](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/1672-richest-customer-wealth) |
 | [3731-find-missing-elements](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/3731-find-missing-elements) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0151-reverse-words-in-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0349-intersection-of-two-arrays) |
+| [0905-sort-array-by-parity](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0905-sort-array-by-parity) |
 ## String
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0435-non-overlapping-intervals) |
+| [0905-sort-array-by-parity](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0912-sort-an-array) |
 | [3731-find-missing-elements](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/3731-find-missing-elements) |
 ## Queue
