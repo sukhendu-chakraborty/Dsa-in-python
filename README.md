@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0069-sqrtx) |
 | [0877-stone-game](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0877-stone-game) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Game Theory
 |  |
 | ------- |
@@ -170,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0876-middle-of-the-linked-list) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
