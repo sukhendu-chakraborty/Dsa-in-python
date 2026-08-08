@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0435-non-overlapping-intervals) |
+| [0496-next-greater-element-i](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0875-koko-eating-bananas) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0496-next-greater-element-i) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3731-find-missing-elements](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0844-backspace-string-compare) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -228,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
