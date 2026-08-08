@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0054-spiral-matrix) |
+| [0844-backspace-string-compare](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0844-backspace-string-compare) |
 ## Two Pointers
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0349-intersection-of-two-arrays) |
+| [0844-backspace-string-compare](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0905-sort-array-by-parity) |
 ## String
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0387-first-unique-character-in-a-string) |
+| [0844-backspace-string-compare](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0844-backspace-string-compare) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Hash Table
 |  |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0234-palindrome-linked-list) |
+| [0844-backspace-string-compare](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0844-backspace-string-compare) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
