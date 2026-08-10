@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0144-binary-tree-preorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0496-next-greater-element-i) |
@@ -245,4 +246,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0901-online-stock-span) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
