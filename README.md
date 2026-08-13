@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/1046-last-stone-weight) |
 | [1672-richest-customer-wealth](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/1672-richest-customer-wealth) |
 | [3731-find-missing-elements](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/1046-last-stone-weight) |
 ## Merge Sort
 |  |
 | ------- |
