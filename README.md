@@ -20,6 +20,7 @@ A collection of LeetCode questions for practicing - Created using [LeetHub v2](h
 | [0088-merge-sorted-array](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0200-number-of-islands](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0435-non-overlapping-intervals) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions for practicing - Created using [LeetHub v2](h
 | ------- |
 | [0054-spiral-matrix](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0200-number-of-islands) |
 | [1672-richest-customer-wealth](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
@@ -285,6 +287,7 @@ A collection of LeetCode questions for practicing - Created using [LeetHub v2](h
 | [0144-binary-tree-preorder-traversal](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0547-number-of-provinces](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -315,6 +318,7 @@ A collection of LeetCode questions for practicing - Created using [LeetHub v2](h
 | [0104-maximum-depth-of-binary-tree](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Search Tree
@@ -331,6 +335,7 @@ A collection of LeetCode questions for practicing - Created using [LeetHub v2](h
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
