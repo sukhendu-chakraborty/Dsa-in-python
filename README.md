@@ -290,6 +290,7 @@ A collection of LeetCode questions for practicing - Created using [LeetHub v2](h
 | [0199-binary-tree-right-side-view](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0547-number-of-provinces](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions for practicing - Created using [LeetHub v2](h
 | [0199-binary-tree-right-side-view](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0743-network-delay-time](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0743-network-delay-time) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions for practicing - Created using [LeetHub v2](h
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0743-network-delay-time) |
 ## Shortest Path
@@ -360,6 +363,7 @@ A collection of LeetCode questions for practicing - Created using [LeetHub v2](h
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0210-course-schedule-ii) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
