@@ -35,6 +35,7 @@ A collection of LeetCode questions for practicing - Created using [LeetHub v2](h
 | [0912-sort-an-array](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/1046-last-stone-weight) |
 | [1672-richest-customer-wealth](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/1672-richest-customer-wealth) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions for practicing - Created using [LeetHub v2](h
 | ------- |
 | [0054-spiral-matrix](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0054-spiral-matrix) |
 | [0844-backspace-string-compare](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0844-backspace-string-compare) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Two Pointers
 |  |
 | ------- |
