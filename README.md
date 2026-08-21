@@ -7,6 +7,7 @@ A collection of LeetCode questions for practicing - Created using [LeetHub v2](h
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0033-search-in-rotated-sorted-array) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions for practicing - Created using [LeetHub v2](h
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0435-non-overlapping-intervals) |
 ## Matrix
@@ -72,6 +74,7 @@ A collection of LeetCode questions for practicing - Created using [LeetHub v2](h
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0019-remove-nth-node-from-end-of-list) |
