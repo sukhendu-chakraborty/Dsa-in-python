@@ -178,6 +178,7 @@ A collection of LeetCode questions for practicing - Created using [LeetHub v2](h
 | [0268-missing-number](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0877-stone-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Game Theory
 |  |
 | ------- |
