@@ -172,6 +172,7 @@ A collection of LeetCode questions for practicing - Created using [LeetHub v2](h
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0069-sqrtx) |
