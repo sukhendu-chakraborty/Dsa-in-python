@@ -24,6 +24,7 @@ A collection of LeetCode questions for practicing - Created using [LeetHub v2](h
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0200-number-of-islands](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0435-non-overlapping-intervals) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions for practicing - Created using [LeetHub v2](h
 | [0141-linked-list-cycle](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0160-intersection-of-two-linked-lists) |
+| [0217-contains-duplicate](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0349-intersection-of-two-arrays) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions for practicing - Created using [LeetHub v2](h
 | [0075-sort-colors](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0349-intersection-of-two-arrays) |
