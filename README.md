@@ -24,6 +24,7 @@ A collection of LeetCode questions for practicing - Created using [LeetHub v2](h
 | [0088-merge-sorted-array](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0217-contains-duplicate) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions for practicing - Created using [LeetHub v2](h
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0268-missing-number) |
 ## Quicksort
