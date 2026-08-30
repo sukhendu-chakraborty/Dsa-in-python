@@ -56,6 +56,7 @@ A collection of LeetCode questions for practicing - Created using [LeetHub v2](h
 | [0053-maximum-subarray](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0338-counting-bits](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0435-non-overlapping-intervals) |
 | [0877-stone-game](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0877-stone-game) |
 ## Greedy
@@ -402,6 +403,7 @@ A collection of LeetCode questions for practicing - Created using [LeetHub v2](h
 | [0136-single-number](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0338-counting-bits) |
 ## Quicksort
 |  |
 | ------- |
