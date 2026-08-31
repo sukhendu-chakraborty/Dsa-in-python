@@ -47,6 +47,7 @@ A collection of LeetCode questions for practicing - Created using [LeetHub v2](h
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0912-sort-an-array) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions for practicing - Created using [LeetHub v2](h
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0338-counting-bits) |
