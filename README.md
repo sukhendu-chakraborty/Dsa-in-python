@@ -21,6 +21,7 @@ A collection of LeetCode questions for practicing - Created using [LeetHub v2](h
 | [0066-plus-one](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions for practicing - Created using [LeetHub v2](h
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0191-number-of-1-bits) |
@@ -410,4 +412,8 @@ A collection of LeetCode questions for practicing - Created using [LeetHub v2](h
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0056-merge-intervals) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
