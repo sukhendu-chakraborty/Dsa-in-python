@@ -26,6 +26,7 @@ A collection of LeetCode questions for practicing - Created using [LeetHub v2](h
 | [0088-merge-sorted-array](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0215-kth-largest-element-in-an-array) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions for practicing - Created using [LeetHub v2](h
 | ------- |
 | [0011-container-with-most-water](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0435-non-overlapping-intervals) |
 ## Matrix
 |  |
