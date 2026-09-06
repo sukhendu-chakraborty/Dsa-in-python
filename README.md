@@ -100,6 +100,7 @@ A collection of LeetCode questions for practicing - Created using [LeetHub v2](h
 | [0142-linked-list-cycle-ii](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0349-intersection-of-two-arrays) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions for practicing - Created using [LeetHub v2](h
 | [0141-linked-list-cycle](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0268-missing-number) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions for practicing - Created using [LeetHub v2](h
 | [0050-powx-n](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0877-stone-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -278,6 +281,7 @@ A collection of LeetCode questions for practicing - Created using [LeetHub v2](h
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0202-happy-number) |
 ## Design
 |  |
 | ------- |
