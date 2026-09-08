@@ -31,6 +31,7 @@ A collection of LeetCode questions for practicing - Created using [LeetHub v2](h
 | [0200-number-of-islands](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0435-non-overlapping-intervals) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions for practicing - Created using [LeetHub v2](h
 | [0160-intersection-of-two-linked-lists](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0349-intersection-of-two-arrays) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions for practicing - Created using [LeetHub v2](h
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0219-contains-duplicate-ii) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
