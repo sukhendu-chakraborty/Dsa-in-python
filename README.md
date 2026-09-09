@@ -209,6 +209,7 @@ A collection of LeetCode questions for practicing - Created using [LeetHub v2](h
 | [0877-stone-game](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0877-stone-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3871-count-commas-in-range-ii](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/3871-count-commas-in-range-ii) |
 ## Game Theory
 |  |
 | ------- |
