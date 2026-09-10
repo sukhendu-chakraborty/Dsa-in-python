@@ -34,6 +34,7 @@ A collection of LeetCode questions for practicing - Created using [LeetHub v2](h
 | [0219-contains-duplicate-ii](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0503-next-greater-element-ii) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions for practicing - Created using [LeetHub v2](h
 | [0234-palindrome-linked-list](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0844-backspace-string-compare](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0905-sort-array-by-parity) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions for practicing - Created using [LeetHub v2](h
 | [0242-valid-anagram](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0496-next-greater-element-i) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -155,6 +158,7 @@ A collection of LeetCode questions for practicing - Created using [LeetHub v2](h
 | [0074-search-a-2d-matrix](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0875-koko-eating-bananas) |
@@ -173,6 +177,7 @@ A collection of LeetCode questions for practicing - Created using [LeetHub v2](h
 | [0242-valid-anagram](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0435-non-overlapping-intervals) |
 | [0905-sort-array-by-parity](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0912-sort-an-array) |
