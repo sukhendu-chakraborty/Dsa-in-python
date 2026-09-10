@@ -333,6 +333,7 @@ A collection of LeetCode questions for practicing - Created using [LeetHub v2](h
 | [0637-average-of-levels-in-binary-tree](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0701-insert-into-a-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -350,6 +351,7 @@ A collection of LeetCode questions for practicing - Created using [LeetHub v2](h
 | [0547-number-of-provinces](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0743-network-delay-time](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0743-network-delay-time) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -368,6 +370,7 @@ A collection of LeetCode questions for practicing - Created using [LeetHub v2](h
 | [0637-average-of-levels-in-binary-tree](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0701-insert-into-a-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
