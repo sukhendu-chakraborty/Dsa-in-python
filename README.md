@@ -33,6 +33,7 @@ A collection of LeetCode questions for practicing - Created using [LeetHub v2](h
 | [0217-contains-duplicate](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0435-non-overlapping-intervals) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions for practicing - Created using [LeetHub v2](h
 | [0165-compare-version-numbers](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0165-compare-version-numbers) |
 | [0202-happy-number](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0350-intersection-of-two-arrays-ii) |
