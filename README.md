@@ -111,6 +111,7 @@ A collection of LeetCode questions for practicing - Created using [LeetHub v2](h
 | [0234-palindrome-linked-list](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0443-string-compression) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions for practicing - Created using [LeetHub v2](h
 | [0165-compare-version-numbers](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0443-string-compression) |
 | [0844-backspace-string-compare](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0844-backspace-string-compare) |
