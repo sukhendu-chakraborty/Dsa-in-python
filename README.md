@@ -40,6 +40,7 @@ A collection of LeetCode questions for practicing - Created using [LeetHub v2](h
 | [0496-next-greater-element-i](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0704-binary-search) |
+| [0821-shortest-distance-to-a-character](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0821-shortest-distance-to-a-character) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0877-stone-game) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions for practicing - Created using [LeetHub v2](h
 | [0349-intersection-of-two-arrays](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0443-string-compression) |
+| [0821-shortest-distance-to-a-character](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0905-sort-array-by-parity) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions for practicing - Created using [LeetHub v2](h
 | [0345-reverse-vowels-of-a-string](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0443-string-compression) |
+| [0821-shortest-distance-to-a-character](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0844-backspace-string-compare) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/3090-maximum-length-substring-with-two-occurrences) |
