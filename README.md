@@ -34,6 +34,7 @@ A collection of LeetCode questions for practicing - Created using [LeetHub v2](h
 | [0219-contains-duplicate-ii](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0435-non-overlapping-intervals) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions for practicing - Created using [LeetHub v2](h
 | [0202-happy-number](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0349-intersection-of-two-arrays) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions for practicing - Created using [LeetHub v2](h
 | [0069-sqrtx](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0704-binary-search) |
@@ -309,6 +312,7 @@ A collection of LeetCode questions for practicing - Created using [LeetHub v2](h
 | [0141-linked-list-cycle](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0287-find-the-duplicate-number) |
 ## Design
 |  |
 | ------- |
@@ -447,6 +451,7 @@ A collection of LeetCode questions for practicing - Created using [LeetHub v2](h
 | [0190-reverse-bits](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0338-counting-bits) |
 ## Quicksort
 |  |
@@ -472,4 +477,8 @@ A collection of LeetCode questions for practicing - Created using [LeetHub v2](h
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
