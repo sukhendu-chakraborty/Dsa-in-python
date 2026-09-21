@@ -40,6 +40,7 @@ A collection of LeetCode questions for practicing - Created using [LeetHub v2](h
 | [0435-non-overlapping-intervals](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0503-next-greater-element-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0704-binary-search) |
 | [0821-shortest-distance-to-a-character](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0821-shortest-distance-to-a-character) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions for practicing - Created using [LeetHub v2](h
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0643-maximum-average-subarray-i) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
