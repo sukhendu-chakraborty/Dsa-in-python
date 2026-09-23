@@ -43,6 +43,7 @@ A collection of LeetCode questions for practicing - Created using [LeetHub v2](h
 | [0643-maximum-average-subarray-i](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0704-binary-search) |
 | [0821-shortest-distance-to-a-character](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0821-shortest-distance-to-a-character) |
+| [0832-flipping-an-image](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0877-stone-game) |
@@ -84,11 +85,13 @@ A collection of LeetCode questions for practicing - Created using [LeetHub v2](h
 | [0054-spiral-matrix](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0200-number-of-islands) |
+| [0832-flipping-an-image](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0832-flipping-an-image) |
 | [1672-richest-customer-wealth](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0054-spiral-matrix) |
+| [0832-flipping-an-image](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0844-backspace-string-compare) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Two Pointers
@@ -120,6 +123,7 @@ A collection of LeetCode questions for practicing - Created using [LeetHub v2](h
 | [0350-intersection-of-two-arrays-ii](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0443-string-compression) |
 | [0821-shortest-distance-to-a-character](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0821-shortest-distance-to-a-character) |
+| [0832-flipping-an-image](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0905-sort-array-by-parity) |
@@ -455,6 +459,7 @@ A collection of LeetCode questions for practicing - Created using [LeetHub v2](h
 | [0268-missing-number](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0338-counting-bits) |
+| [0832-flipping-an-image](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0832-flipping-an-image) |
 ## Quicksort
 |  |
 | ------- |
