@@ -122,6 +122,7 @@ A collection of LeetCode questions for practicing for interview - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0443-string-compression) |
+| [0696-count-binary-substrings](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0696-count-binary-substrings) |
 | [0821-shortest-distance-to-a-character](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0844-backspace-string-compare) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions for practicing for interview - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0443-string-compression) |
+| [0696-count-binary-substrings](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0696-count-binary-substrings) |
 | [0821-shortest-distance-to-a-character](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0844-backspace-string-compare) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
