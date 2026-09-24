@@ -7,12 +7,10 @@ class Solution:
         for r in range (1,len(sl)):
             if sl[r]==sl[r-1]:
                 curr += 1
-                if prev >= curr:
-                    result+=1
             else:
                 prev = curr
                 curr = 1
-                if prev >= curr:
+            if prev >= curr:
                     result+=1
         return result
                 
