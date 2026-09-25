@@ -50,6 +50,7 @@ A collection of LeetCode questions for practicing for interview - Created using 
 | [0905-sort-array-by-parity](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/1046-last-stone-weight) |
+| [1089-duplicate-zeros](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/1089-duplicate-zeros) |
 | [1672-richest-customer-wealth](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/1672-richest-customer-wealth) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/3731-find-missing-elements) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions for practicing for interview - Created using 
 | [0844-backspace-string-compare](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0905-sort-array-by-parity) |
+| [1089-duplicate-zeros](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/1089-duplicate-zeros) |
 ## String
 |  |
 | ------- |
