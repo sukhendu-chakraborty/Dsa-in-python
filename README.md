@@ -134,6 +134,7 @@ A collection of LeetCode questions for practicing for interview - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0049-group-anagrams) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions for practicing for interview - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0142-linked-list-cycle-ii) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions for practicing for interview - Created using 
 | [0002-add-two-numbers](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0066-plus-one) |
