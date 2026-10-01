@@ -27,6 +27,7 @@ A collection of LeetCode questions for practicing for interview - Created using 
 | [0088-merge-sorted-array](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0200-number-of-islands) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions for practicing for interview - Created using 
 | [0013-roman-to-integer](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0160-intersection-of-two-linked-lists) |
@@ -445,6 +447,7 @@ A collection of LeetCode questions for practicing for interview - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0547-number-of-provinces) |
 ## Graph Theory
