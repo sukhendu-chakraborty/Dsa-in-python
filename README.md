@@ -30,6 +30,7 @@ A collection of LeetCode questions for practicing for interview - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0217-contains-duplicate) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions for practicing for interview - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0215-kth-largest-element-in-an-array) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions for practicing for interview - Created using 
 | [0141-linked-list-cycle](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0219-contains-duplicate-ii) |
@@ -211,6 +214,7 @@ A collection of LeetCode questions for practicing for interview - Created using 
 | [0075-sort-colors](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0242-valid-anagram) |
@@ -230,6 +234,7 @@ A collection of LeetCode questions for practicing for interview - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0387-first-unique-character-in-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -521,4 +526,8 @@ A collection of LeetCode questions for practicing for interview - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0238-product-of-array-except-self) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sukhendu-chakraborty/Dsa-in-python/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
